@@ -1,0 +1,1033 @@
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+.page1{
+height: 100vh;
+width: 100%;
+background-image: url(/images/uunifu\ back.jpg);
+background-attachment: fixed;
+background-size: cover;
+
+}
+.opc{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.441);
+}
+
+
+
+
+.navbar{
+height: 15%;
+width: 100%;
+
+display: flex;
+
+
+
+}
+
+.ubimg{
+height: 70%;
+width: 30%;
+margin-left: 5%;
+
+
+}
+.ubimg img{
+height: 80%;
+
+}
+.lizt{
+
+height: 70%;
+width: 60%;
+}
+.icon{
+height: 70%;
+width: 5%;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.icon i{
+margin-bottom: 25%;
+color: aqua;
+}
+
+.apply{
+height: 70%;
+width: 10%;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+.apply button{
+height: 40%;
+width: 80%;
+border-radius: 20px;
+border: none;
+margin-bottom: 10%;
+}
+
+
+
+.arra{
+display: flex;
+list-style: none;
+justify-content: space-evenly;
+}
+
+
+
+.bigdiv{
+height: 100%;
+width: 100%;
+
+}
+
+.definecont{
+height: 60%;
+width: 100%;
+
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.definecont h1{
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.definecont p{
+color: gainsboro;
+
+
+}
+
+
+.button{
+height: 10%;
+width: 100%;
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.button button{
+height: 60%;
+width: 15%;
+border-radius: 20px;
+border: none;
+background-color: crimson;
+color: white;
+
+}
+
+.circle{
+height: 50px;
+width: 50px;
+border-radius: 50%;
+background-color: cornflowerblue;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 48%;
+margin-top: 2%;
+}
+
+
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.page2{
+height: 140vh;
+width: 100%;
+
+
+}
+.maindiv{
+height: 100%;
+width: 100%;
+
+display: flex;
+justify-content: space-around;
+
+
+}
+
+.leftdiv{
+height: 100%;
+width: 35%;
+
+margin-top: 10%;
+
+
+}
+
+.leftdiv p{
+line-height: 1.6;
+
+
+
+}
+
+
+.leftdiv button{
+border-radius: 20px;
+border: none;
+height: 5%;
+width: 55%;
+font-size: 80%;
+color: white;
+font-weight: bold;
+}
+
+.center{
+height: 100%;
+width: 30%;
+
+display: flex;
+flex-direction: column;
+margin-bottom: 10%;
+
+
+}
+
+.split1{
+margin: 5%;
+line-height: 1.5;
+
+height: 50%;
+width: 80%;
+background-color: rgba(220, 20, 60, 0.788);
+margin-bottom: 20px;
+border-radius: 10px;
+border: none;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+
+.split2{
+height: 50%;
+width: 80%;
+background-color: rgb(28, 116, 171);
+margin-top: 20px;
+border-radius: 10px;
+border: none;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+line-height: 1.5;
+text-align: center;
+}
+
+
+.right{
+height: 100%;
+width: 30%;
+
+
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+margin-top: 5%;
+
+}
+
+.split3{
+    height: 50%;
+    width: 80%;
+background-color: rgba(0, 128, 51, 0.753);
+margin-bottom: 20px;
+border-radius: 10px;
+border: none;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+line-height: 1.5;
+}
+
+.split4{
+    height: 50%;
+    width: 80%;
+
+background-color: rgba(184, 155, 11, 0.922) ;
+margin-top: 20px;
+border-radius: 10px;
+border: none;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+
+
+
+}
+
+
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.page3{
+height: 100vh;
+width: 100%;
+
+
+}
+.biggest{
+height: 100%;
+width: 100%;
+
+display: flex;
+
+
+}
+.vid{
+height: 100%;
+width: 50%;
+background-image: url(/images/left.jpg);
+background-size: 100% 100% ;
+
+background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 1%
+
+}
+
+.vid i{
+font-size: 450%;
+color: white;
+
+
+}
+
+
+.do{
+height: 100%;
+width: 50%;
+
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+}
+
+.do h3{
+color: rgba(30, 143, 255, 0.61);
+font-size: 250%;
+font-family:'Times New Roman', Times, serif;
+}
+
+.do p{
+line-height: 1.5;
+
+
+
+}
+
+
+
+
+.do button{
+height: 6%;
+width: 25%;
+background-color: rgba(255, 0, 0, 0.623);
+border-radius: 20px;
+color: white;
+border: none;
+}
+
+
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.page4{
+height: 140vh;
+width: 100%;
+
+}
+
+.biggesto{
+height: 100%;
+width: 100%;
+
+
+}
+.pro{
+height: 12%;
+width: 100%;
+
+}
+.nusu1{
+height: 44%;
+width: 100%;
+
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.nusu2{
+height: 44%;
+width: 100%;
+
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.quota1{
+height: 100%;
+width: 30%;
+
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+line-height: 0%;
+}
+
+.quota1 img{
+height: 70%;
+width: 100%;
+border-radius: 10px;
+}
+
+.quota2{
+    height: 100%;
+    width: 30%;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    line-height: 0%;
+    }
+
+    .quota2 img{
+        height: 70%;
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .quota3{
+        height: 100%;
+        width: 30%;
+        
+        display: flex;
+        justify-content: center;
+flex-direction: column;
+align-items: center;
+line-height: 0%;
+        }
+
+        .quota3 img{
+            height: 70%;
+            width: 100%;
+            border-radius: 10px;
+        }
+
+
+        .quota4{
+            height: 100%;
+            width: 30%;
+            
+            display: flex;
+            justify-content: center;
+flex-direction: column;
+align-items: center;
+line-height: 0%;
+            }
+
+            .quota4 img{
+                height: 70%;
+                width: 100%;
+                border-radius: 10px;
+            }
+
+            .quota5{
+                height: 100%;
+                width: 30%;
+                
+                display: flex;
+                justify-content: center;
+flex-direction: column;
+align-items: center;
+line-height: 0%;
+                }
+
+                .quota5 img{
+                    height: 70%;
+                    width: 100%;
+                    border-radius: 10px;
+                }
+
+                .quota6{
+                    height: 100%;
+                    width: 30%;
+                    
+                    display: flex;
+                    justify-content: center;
+flex-direction: column;
+align-items: center;
+line-height: 0%;
+
+                    }
+
+                    .quota6 img{
+                        height: 70%;
+                        width: 100%;
+                        border-radius: 10px;
+                    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+.page5{
+height: 110vh;
+width: 100%;
+background-color: aqua;
+display: flex;
+
+
+}
+
+.supreme{
+height: 100%;
+width: 50%;
+background-color: red;
+
+background-size: cover;
+
+}
+
+.supreme img{
+height: 100%;
+width: 100%;
+
+
+}
+.how{
+height: 100%;
+width: 50%;
+
+display: flex;
+background-color: green;
+
+
+}
+
+
+
+
+/* .juu{
+height: 10%;
+width: 90%;
+background-color: cyan; */
+
+
+/* } */
+
+/* .kubwa{
+height: 87%;
+width: 100%;
+background-color: yellow;
+display: flex;
+justify-content: space-between;
+
+} */
+
+.admi{
+height: 100%;
+width: 50%;
+background-color: blueviolet;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.method{
+height: 100%;
+width: 50%;
+background-color: bisque;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.page6{
+height: 100vh;
+width: 100%;
+
+
+}
+
+.ukubwa{
+height: 70%;
+width: 100%;
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.mwanzo{
+height: 30%;
+width: 100%;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+.mwanzo h4{
+color: red;
+font-weight: 100;
+
+}
+
+.mwanzo h1{
+font-size: 460%;
+color: rgba(30, 180, 255, 0.749);
+line-height: 0%;
+margin: 2%;
+
+}
+
+.dileft{
+height: 100%;
+width: 50%;
+
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.diright{
+height: 100%;
+width: 50%;
+
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.page7{
+height: 100vh;
+width: 100%;
+box-sizing: border-box;
+
+}
+
+
+
+.up{
+height: 100%;
+width: 100%;
+background-image: url(/images/vidimg.jpg);
+background-size: cover;
+background-attachment: fixed;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+
+
+
+
+.up i{
+font-size: 600%;
+font-weight: 20px;
+color: white;
+
+}
+
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+
+.page8{
+height: 100vh;
+width: 100%;
+
+
+
+}
+
+.biggi{
+height: 100%;
+width: 100%;
+background-image: url(/images/business-digital-bg.jpg);
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+justify-content: space-around;
+
+
+}
+
+.biggicont1{
+height: 58%;
+width: 30%;
+
+display: flex;
+flex-direction: column;
+align-items: center;
+
+background-color: rgba(255, 241, 240, 240);;
+
+
+
+}
+
+
+.biggicont2{
+    height: 58%;
+    width: 30%;
+    background-color: rgba(255, 241, 240, 240);
+    
+display: flex;
+flex-direction: column;
+align-items: center;
+
+
+}
+
+.biggicont3{
+height: 58%;
+width: 30%;
+background-color: rgba(255, 241, 240, 240);
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+body{
+padding:0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+.page9{
+height: 25vh;
+width: 100%;
+background-color: #b73a3a;
+
+}
+
+.lets{
+height: 100%;
+width: 100%;
+background-color: crimson;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.started{
+height: 30%;
+width: 17%;
+border: none;
+border-radius: 30px;
+margin-left: 3%;
+
+}
+
+.lets p{
+font-size: x-large;
+
+
+}
+
+
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+.page10{
+height: 80vh;
+width: 100%;
+
+
+}
+
+.on{
+height: 40%;
+width: 100%;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.mediaicons{
+height: 50%;
+width: 100%;
+
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.ic1{
+height: 100%;
+width: 18%;
+
+display: flex;
+justify-content: center;
+
+}
+
+.ic1 img{
+height: 35%;
+width: 90%;
+
+
+}
+
+.ic2{
+    height: 100%;
+    width: 18%;
+    
+    display: flex;
+    justify-content: center;
+    
+}
+
+.ic2 img{
+    height: 35%;
+    width: 90%;
+
+
+}
+
+.ic3{
+    height: 100%;
+    width: 18%;
+    
+    display: flex;
+justify-content: center;
+
+
+}
+
+.ic3 img{
+height: 45%;
+width: 60%;
+
+
+}
+
+.ic4{
+    height: 100%;
+    width: 18%;
+    
+    display: flex;
+justify-content: center;
+
+
+}
+
+.ic4 img{
+    height: 45%;
+    width: 65%;
+
+}
+
+.ic5{
+
+height: 100%;
+width: 18%;
+
+display: flex;
+justify-content: center;
+
+}
+
+.ic5 img{
+height: 50%;
+width: 60%;
+
+
+}
+
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+.page10{
+height: 100vh;
+width: 100%;
+
+
+
+}
+.finish{
+height: 70%;
+width: 100%;
+background-color: rgba(13, 8, 7, 0.489);
+display: flex;
+justify-content: space-around;
+
+}
+
+.finish h1{
+color: azure;
+
+
+
+}
+
+.sh1{
+height: 100%;
+width: 20%;
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+margin-bottom: 45%;
+}
+
+.sh1 img{
+height: 10%;
+width: 45%;
+
+}
+
+.sh1 p{
+
+
+
+}
+
+.sh2{
+    height: 100%;
+    width: 20%;
+    
+    display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+line-height: 0;
+margin-top: 1%;
+}
+
+.sh3{
+    height: 100%;
+    width: 20%;
+    
+    display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+line-height: 0;
+margin-bottom: 2%;
+}
+
+.sh4{
+    height: 100%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+align-items: center;
+
+}
+
+.sh4{
+margin-bottom: 5%;
+
+}
